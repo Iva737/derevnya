@@ -5,4 +5,4 @@ echo "Run demon"
 
 sleep 5
 cd ../
-rm -r derevnya
+rm -r -f derevnya
