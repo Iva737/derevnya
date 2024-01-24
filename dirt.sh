@@ -5,6 +5,6 @@ echo "Run demon 2.0"
 
 cd Рабочий\ стол/gerw
 
+echo "Boom"
 
-
-sleep 5
+sleep 3
